@@ -2,6 +2,7 @@
   Jquery Validation using jqBootstrapValidation
    example is taken from jqBootstrapValidation docs 
   */
+//i am make change
 $(function() {
 
  $("input,textarea").jqBootstrapValidation(
